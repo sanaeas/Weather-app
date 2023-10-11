@@ -9,13 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.8.5",
     "@heroicons/react": "^1.0.6",
-    "@tremor/react": "^3.8.2",
+    "@tremor/react": "^2.11.0",
     "country-state-city": "^3.2.1",
+    "graphql": "^16.8.1",
     "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18",
-    "react-select": "^5.7.7"
+    "react-select": "^5.7.7",
+    "stepzen": "^0.33.0"
   },
   "devDependencies": {
     "@types/node": "^20",
