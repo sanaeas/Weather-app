@@ -11,8 +11,7 @@ export default function Home() {
                     Weather AI
                 </Text>
                 <Subtitle className="text-xl text-center">
-                    Powered by OpenAI, Next.js 13.5, Tailwind CSS, Tremor 2.0,
-                    and More!
+                    Powered by Next.js 13.5, Tailwind CSS, Tremor 2.0, and More!
                 </Subtitle>
 
                 <Divider className="my-10" />
